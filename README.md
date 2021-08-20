@@ -1,4 +1,5 @@
 # Exercise #2: URL Shortener
+https://www.youtube.com/watch?v=s7zZEkYMOiU
 
 [![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)](https://gophercises.com/exercises/urlshort)
 
